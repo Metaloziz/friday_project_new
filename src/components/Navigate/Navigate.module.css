@@ -1,0 +1,6 @@
+.navigate {
+    display: flex;
+    flex-direction: row;
+    width: 50vh;
+    justify-content: space-between;
+}
